@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:60,中国之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:60,中国之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
+#EXTINF:60,经济之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:60,经济之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
+#EXTINF:60,音乐之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:60,音乐之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
+#EXTINF:60,经典音乐广播
+#EXTVLCOPT:network-caching=1000
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:60,经典音乐广播 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
+#EXTINF:60,中华之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:60,中华之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
+#EXTINF:60,神州之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:60,神州之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
+#EXTINF:60,大湾区之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:60,大湾区之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
+#EXTINF:60,香港之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:60,香港之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
+#EXTINF:60,民族之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:60,民族之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn009.cnr.cn/live/mzzs48/index.m3u8
+#EXTINF:60,文艺之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:60,文艺之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
+#EXTINF:60,阅读之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:60,阅读之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
+#EXTINF:60,中国交通广播
+#EXTVLCOPT:network-caching=1000
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:60,中国交通广播 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
+#EXTINF:60,中国乡村之声
+#EXTVLCOPT:network-caching=1000
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:60,中国乡村之声 low resolution
+#EXTVLCOPT:network-caching=1000
+http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+#EXTINF:60,环球资讯广播
+#EXTVLCOPT:network-caching=1000
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:60,南海之声
+#EXTVLCOPT:network-caching=1000
+http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
+#EXTINF:60,英语资讯广播 China Plus Radio
+#EXTVLCOPT:network-caching=1000
+http://cnlive.cnr.cn/hls/yyzxgb.m3u8
