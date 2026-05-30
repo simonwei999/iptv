@@ -1,7 +1,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 radio="true" tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="央广",中国之声
+#EXTINF:-1 radio="true" tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="央广",中国之声1
 https://radio.0472.org/?id=639
-#EXTINF:-1 radio="true" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="央广",经济之声
+#EXTINF:-1 radio="true" tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="央广",中国之声2
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 radio="true" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="央广",经济之声1
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 radio="true" tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="央广",经济之声2
 https://radio.0472.org/?id=640
 #EXTINF:-1 radio="true" tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="央广",环球资讯广播
 https://radio.0472.org/?id=692
